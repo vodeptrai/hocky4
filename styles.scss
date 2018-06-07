@@ -1,0 +1,28 @@
+/* root */
+
+@import 'var';
+@import 'func';
+@import 'reset';
+@import 'nice-select';
+
+/* elements */
+
+@import 'elements/header';
+@import 'elements/footer';
+@import 'elements/banner';
+@import 'elements/title';
+@import 'elements/video';
+@import 'elements/block';
+@import 'elements/button';
+@import 'elements/scrollbar';
+@import 'elements/anim';
+@import 'elements/modal';
+@import 'elements/customSlide';
+
+/* pages */
+
+@import 'pages/landingpage';
+@import 'pages/baiduthi';
+@import 'pages/cuocthi';
+@import 'pages/thele';
+@import 'pages/holiday-collection';
